@@ -23,7 +23,7 @@
 
 Student at **UIT, VNU-HCM** — GPA **3.2/4**, majoring in AI/Data Engineering.
 
-I work across the full stack — from **computer vision and deep learning pipelines** to **backend architecture and frontend implementation**. Comfortable owning a project end-to-end: designing the data model, building the API, and shipping the UI. Currently targeting **AI/ML Engineer** roles.
+I work across the full stack — from **computer vision and deep learning pipelines** to **backend architecture and frontend implementation**. Comfortable owning a project end-to-end: designing the data model, building the API, and shipping the UI. Currently targeting **AI/ML Engineer** intern roles.
 
 - 🎓 **UIT, VNU-HCM** — AI/Data Engineering, GPA 3.2/4
 - 💻 Full-stack development: Python, TypeScript/JavaScript, FastAPI, Next.js
